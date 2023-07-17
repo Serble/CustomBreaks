@@ -25,6 +25,10 @@ public class BreakHandlerPacketManager extends PacketAdapter {
 
     @Override
     public void onPacketReceiving(PacketEvent event) {
+        if (!Config.isEnabled(event.getPlayer().getWorld())) {
+            return;
+        }
+
         if (!Config.isBenchmark()) {
             executeWrapper(event);
             return;
@@ -41,14 +45,8 @@ public class BreakHandlerPacketManager extends PacketAdapter {
     private void executeWrapper(PacketEvent event) {
         PacketContainer packet = event.getPacket();
         Player player = event.getPlayer();
-        player.sendMessage("Packet received");
-
-        if (!Config.isEnabled(player.getWorld())) {
-            return;
-        }
 
         int action = packet.getPlayerDigTypes().read(0).ordinal();
-        player.sendMessage("Action: " + action);
 
         Location blockLoc = packet.getBlockPositionModifier().read(0).toLocation(event.getPlayer().getWorld());
         Block block = blockLoc.getBlock();

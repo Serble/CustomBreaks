@@ -50,7 +50,7 @@ public class BreakHandler implements Listener {
 
     private void checkInitPlayer(Player p) {
         if (Config.isEnabled(p.getWorld())) {
-            p.addPotionEffect(new PotionEffect(PotionEffectType.SLOW_DIGGING, 1000000, 255, false, false));
+            p.addPotionEffect(new PotionEffect(PotionEffectType.SLOW_DIGGING, 99999, 255, false, false));
             removeMineSpeed(p);
         }
     }
@@ -60,24 +60,24 @@ public class BreakHandler implements Listener {
         p.removePotionEffect(PotionEffectType.SLOW_DIGGING);
     }
 
-    @EventHandler(priority = EventPriority.LOWEST)
+    @EventHandler(priority = EventPriority.HIGHEST)
     public void onJoin(PlayerJoinEvent e) {
         checkInitPlayer(e.getPlayer());
     }
 
-    @EventHandler(priority = EventPriority.LOWEST)
+    @EventHandler(priority = EventPriority.HIGHEST)
     public void onWorldChange(PlayerChangedWorldEvent e) {
         checkInitPlayer(e.getPlayer());
     }
 
-    @EventHandler(priority = EventPriority.LOWEST)
+    @EventHandler(priority = EventPriority.HIGHEST)
     public void onLeave(PlayerQuitEvent e) {
         if (Config.isEnabled(e.getPlayer().getWorld())) {
             deInitPlayer(e.getPlayer());
         }
     }
 
-    @EventHandler(priority = EventPriority.LOWEST)
+    @EventHandler(priority = EventPriority.HIGHEST)
     public void onTeleport(PlayerTeleportEvent e) {
         if (Objects.requireNonNull(e.getFrom().getWorld()).getName().equals(Objects.requireNonNull(Objects.requireNonNull(e.getTo()).getWorld()).getName())) {
             return;  // Same world
@@ -85,14 +85,14 @@ public class BreakHandler implements Listener {
         deInitPlayer(e.getPlayer());
     }
 
-    @EventHandler(priority = EventPriority.LOWEST)
+    @EventHandler(priority = EventPriority.HIGHEST)
     public void onDeath(PlayerDeathEvent e) {
         if (Config.isEnabled(e.getEntity().getWorld())) {
             deInitPlayer(e.getEntity());
         }
     }
 
-    @EventHandler(priority = EventPriority.LOWEST)
+    @EventHandler(priority = EventPriority.HIGHEST)
     public void onRespawn(PlayerRespawnEvent e) {
         checkInitPlayer(e.getPlayer());
     }
