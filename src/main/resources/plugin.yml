@@ -1,0 +1,8 @@
+name: CustomBreaks
+main: net.serble.custombreaks.CustomBreaks
+version: 1.0
+api-version: 1.13
+depend:
+  - ProtocolLib
+softdepend:
+  - WorldGuard

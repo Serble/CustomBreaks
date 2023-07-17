@@ -1,0 +1,4160 @@
+acacia_button:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: ACACIA_BUTTON
+acacia_door:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: ACACIA_DOOR
+acacia_fence:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: ACACIA_FENCE
+acacia_fence_gate:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: ACACIA_FENCE_GATE
+acacia_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: ACACIA_HANGING_SIGN
+acacia_leaves:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: ACACIA_LEAVES
+acacia_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: ACACIA_LOG
+acacia_planks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: ACACIA_PLANKS
+acacia_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: ACACIA_PRESSURE_PLATE
+acacia_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: ACACIA_SAPLING
+acacia_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: ACACIA_SIGN
+acacia_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: ACACIA_SLAB
+acacia_trapdoor:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: ACACIA_TRAPDOOR
+acacia_wall_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: ACACIA_WALL_HANGING_SIGN
+acacia_wall_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: ACACIA_WALL_SIGN
+acacia_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: ACACIA_WOOD
+activator_rail:
+  hardness: 0.7
+  tool: AXE
+  type: exact
+  value: ACTIVATOR_RAIL
+allium:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: ALLIUM
+amethyst_block:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: AMETHYST_BLOCK
+amethyst_cluster:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: AMETHYST_CLUSTER
+ancient_debris:
+  hardness: 30.0
+  tool: AXE
+  type: exact
+  value: ANCIENT_DEBRIS
+andesite:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: ANDESITE
+anvil:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: ANVIL
+attached_melon_stem:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: ATTACHED_MELON_STEM
+attached_pumpkin_stem:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: ATTACHED_PUMPKIN_STEM
+azalea:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: AZALEA
+azalea_leaves:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: AZALEA_LEAVES
+azure_bluet:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: AZURE_BLUET
+bamboo:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BAMBOO
+bamboo_block:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_BLOCK
+bamboo_button:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: BAMBOO_BUTTON
+bamboo_door:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_DOOR
+bamboo_fence:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_FENCE
+bamboo_fence_gate:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_FENCE_GATE
+bamboo_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_HANGING_SIGN
+bamboo_mosaic:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_MOSAIC
+bamboo_mosaic_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_MOSAIC_SLAB
+bamboo_planks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_PLANKS
+bamboo_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: BAMBOO_PRESSURE_PLATE
+bamboo_sapling:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_SAPLING
+bamboo_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_SIGN
+bamboo_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_SLAB
+bamboo_trapdoor:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_TRAPDOOR
+bamboo_wall_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_WALL_HANGING_SIGN
+bamboo_wall_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BAMBOO_WALL_SIGN
+barrel:
+  hardness: 2.5
+  tool: AXE
+  type: exact
+  value: BARREL
+barrier:
+  hardness: -1.0
+  tool: AXE
+  type: exact
+  value: BARRIER
+basalt:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: BASALT
+beacon:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: BEACON
+bedrock:
+  hardness: -1.0
+  tool: AXE
+  type: exact
+  value: BEDROCK
+bee_nest:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: BEE_NEST
+beehive:
+  hardness: 0.6
+  tool: AXE
+  type: exact
+  value: BEEHIVE
+beetroots:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: BEETROOTS
+bell:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: BELL
+big_dripleaf:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: BIG_DRIPLEAF
+big_dripleaf_stem:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: BIG_DRIPLEAF_STEM
+birch_button:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: BIRCH_BUTTON
+birch_door:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: BIRCH_DOOR
+birch_fence:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BIRCH_FENCE
+birch_fence_gate:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BIRCH_FENCE_GATE
+birch_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BIRCH_HANGING_SIGN
+birch_leaves:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: BIRCH_LEAVES
+birch_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BIRCH_LOG
+birch_planks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BIRCH_PLANKS
+birch_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: BIRCH_PRESSURE_PLATE
+birch_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: BIRCH_SAPLING
+birch_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BIRCH_SIGN
+birch_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BIRCH_SLAB
+birch_trapdoor:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: BIRCH_TRAPDOOR
+birch_wall_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BIRCH_WALL_HANGING_SIGN
+birch_wall_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BIRCH_WALL_SIGN
+birch_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BIRCH_WOOD
+black_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BLACK_BANNER
+black_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: BLACK_BED
+black_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: BLACK_CANDLE
+black_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: BLACK_CARPET
+black_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: BLACK_CONCRETE
+black_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: BLACK_CONCRETE_POWDER
+black_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: BLACK_GLAZED_TERRACOTTA
+black_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BLACK_SHULKER_BOX
+black_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: BLACK_STAINED_GLASS
+black_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: BLACK_STAINED_GLASS_PANE
+black_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: BLACK_TERRACOTTA
+black_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BLACK_WALL_BANNER
+black_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: BLACK_WOOL
+blackstone:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: BLACKSTONE
+blackstone_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BLACKSTONE_SLAB
+blast_furnace:
+  hardness: 3.5
+  tool: AXE
+  type: exact
+  value: BLAST_FURNACE
+blue_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BLUE_BANNER
+blue_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: BLUE_BED
+blue_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: BLUE_CANDLE
+blue_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: BLUE_CARPET
+blue_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: BLUE_CONCRETE
+blue_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: BLUE_CONCRETE_POWDER
+blue_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: BLUE_GLAZED_TERRACOTTA
+blue_ice:
+  hardness: 2.8
+  tool: AXE
+  type: exact
+  value: BLUE_ICE
+blue_orchid:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: BLUE_ORCHID
+blue_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BLUE_SHULKER_BOX
+blue_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: BLUE_STAINED_GLASS
+blue_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: BLUE_STAINED_GLASS_PANE
+blue_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: BLUE_TERRACOTTA
+blue_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BLUE_WALL_BANNER
+blue_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: BLUE_WOOL
+bone_block:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BONE_BLOCK
+bookshelf:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: BOOKSHELF
+brain_coral:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: BRAIN_CORAL
+brain_coral_block:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: BRAIN_CORAL_BLOCK
+brain_coral_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: BRAIN_CORAL_FAN
+brain_coral_wall_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: BRAIN_CORAL_WALL_FAN
+brewing_stand:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: BREWING_STAND
+brick_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BRICK_SLAB
+bricks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BRICKS
+brown_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BROWN_BANNER
+brown_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: BROWN_BED
+brown_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: BROWN_CANDLE
+brown_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: BROWN_CARPET
+brown_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: BROWN_CONCRETE
+brown_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: BROWN_CONCRETE_POWDER
+brown_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: BROWN_GLAZED_TERRACOTTA
+brown_mushroom:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: BROWN_MUSHROOM
+brown_mushroom_block:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: BROWN_MUSHROOM_BLOCK
+brown_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: BROWN_SHULKER_BOX
+brown_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: BROWN_STAINED_GLASS
+brown_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: BROWN_STAINED_GLASS_PANE
+brown_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: BROWN_TERRACOTTA
+brown_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: BROWN_WALL_BANNER
+brown_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: BROWN_WOOL
+bubble_coral:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: BUBBLE_CORAL
+bubble_coral_block:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: BUBBLE_CORAL_BLOCK
+bubble_coral_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: BUBBLE_CORAL_FAN
+bubble_coral_wall_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: BUBBLE_CORAL_WALL_FAN
+budding_amethyst:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: BUDDING_AMETHYST
+cactus:
+  hardness: 0.4
+  tool: AXE
+  type: exact
+  value: CACTUS
+cake:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: CAKE
+calcite:
+  hardness: 0.75
+  tool: AXE
+  type: exact
+  value: CALCITE
+campfire:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CAMPFIRE
+candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: CANDLE
+carrots:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: CARROTS
+cartography_table:
+  hardness: 2.5
+  tool: AXE
+  type: exact
+  value: CARTOGRAPHY_TABLE
+carved_pumpkin:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: CARVED_PUMPKIN
+cauldron:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CAULDRON
+cave_vines:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: CAVE_VINES
+cave_vines_plant:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: CAVE_VINES_PLANT
+chain:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: CHAIN
+chain_command_block:
+  hardness: -1.0
+  tool: AXE
+  type: exact
+  value: CHAIN_COMMAND_BLOCK
+cherry_button:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: CHERRY_BUTTON
+cherry_door:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: CHERRY_DOOR
+cherry_fence:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CHERRY_FENCE
+cherry_fence_gate:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CHERRY_FENCE_GATE
+cherry_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: CHERRY_HANGING_SIGN
+cherry_leaves:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: CHERRY_LEAVES
+cherry_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CHERRY_LOG
+cherry_planks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CHERRY_PLANKS
+cherry_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: CHERRY_PRESSURE_PLATE
+cherry_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: CHERRY_SAPLING
+cherry_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: CHERRY_SIGN
+cherry_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CHERRY_SLAB
+cherry_trapdoor:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: CHERRY_TRAPDOOR
+cherry_wall_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: CHERRY_WALL_HANGING_SIGN
+cherry_wall_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: CHERRY_WALL_SIGN
+cherry_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CHERRY_WOOD
+chest:
+  hardness: 2.5
+  tool: AXE
+  type: exact
+  value: CHEST
+chipped_anvil:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: CHIPPED_ANVIL
+chiseled_bookshelf:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: CHISELED_BOOKSHELF
+chiseled_nether_bricks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CHISELED_NETHER_BRICKS
+chiseled_polished_blackstone:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: CHISELED_POLISHED_BLACKSTONE
+chiseled_quartz_block:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: CHISELED_QUARTZ_BLOCK
+chiseled_red_sandstone:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: CHISELED_RED_SANDSTONE
+chiseled_sandstone:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: CHISELED_SANDSTONE
+chiseled_stone_bricks:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: CHISELED_STONE_BRICKS
+chorus_flower:
+  hardness: 0.4
+  tool: AXE
+  type: exact
+  value: CHORUS_FLOWER
+chorus_plant:
+  hardness: 0.4
+  tool: AXE
+  type: exact
+  value: CHORUS_PLANT
+clay:
+  hardness: 0.6
+  tool: AXE
+  type: exact
+  value: CLAY
+coal_block:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: COAL_BLOCK
+coal_ore:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: COAL_ORE
+coarse_dirt:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: COARSE_DIRT
+cobbled_deepslate:
+  hardness: 3.5
+  tool: AXE
+  type: exact
+  value: COBBLED_DEEPSLATE
+cobblestone:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: COBBLESTONE
+cobblestone_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: COBBLESTONE_SLAB
+cobweb:
+  hardness: 4.0
+  tool: AXE
+  type: exact
+  value: COBWEB
+cocoa:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: COCOA
+command_block:
+  hardness: -1.0
+  tool: AXE
+  type: exact
+  value: COMMAND_BLOCK
+comparator:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: COMPARATOR
+composter:
+  hardness: 0.6
+  tool: AXE
+  type: exact
+  value: COMPOSTER
+conduit:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: CONDUIT
+copper_block:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: COPPER_BLOCK
+cornflower:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: CORNFLOWER
+cracked_nether_bricks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CRACKED_NETHER_BRICKS
+cracked_stone_bricks:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: CRACKED_STONE_BRICKS
+crafting_table:
+  hardness: 2.5
+  tool: AXE
+  type: exact
+  value: CRAFTING_TABLE
+creeper_head:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: CREEPER_HEAD
+creeper_wall_head:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: CREEPER_WALL_HEAD
+crimson_button:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: CRIMSON_BUTTON
+crimson_door:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_DOOR
+crimson_fence:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_FENCE
+crimson_fence_gate:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_FENCE_GATE
+crimson_fungus:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_FUNGUS
+crimson_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_HANGING_SIGN
+crimson_hyphae:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_HYPHAE
+crimson_nylium:
+  hardness: 0.4
+  tool: AXE
+  type: exact
+  value: CRIMSON_NYLIUM
+crimson_planks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_PLANKS
+crimson_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: CRIMSON_PRESSURE_PLATE
+crimson_roots:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_ROOTS
+crimson_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_SIGN
+crimson_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_SLAB
+crimson_stem:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_STEM
+crimson_trapdoor:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_TRAPDOOR
+crimson_wall_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_WALL_HANGING_SIGN
+crimson_wall_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: CRIMSON_WALL_SIGN
+crying_obsidian:
+  hardness: 50.0
+  tool: AXE
+  type: exact
+  value: CRYING_OBSIDIAN
+cut_red_sandstone:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: CUT_RED_SANDSTONE
+cut_red_sandstone_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CUT_RED_SANDSTONE_SLAB
+cut_sandstone:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: CUT_SANDSTONE
+cut_sandstone_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CUT_SANDSTONE_SLAB
+cyan_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: CYAN_BANNER
+cyan_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: CYAN_BED
+cyan_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: CYAN_CANDLE
+cyan_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: CYAN_CARPET
+cyan_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: CYAN_CONCRETE
+cyan_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: CYAN_CONCRETE_POWDER
+cyan_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: CYAN_GLAZED_TERRACOTTA
+cyan_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: CYAN_SHULKER_BOX
+cyan_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: CYAN_STAINED_GLASS
+cyan_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: CYAN_STAINED_GLASS_PANE
+cyan_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: CYAN_TERRACOTTA
+cyan_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: CYAN_WALL_BANNER
+cyan_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: CYAN_WOOL
+damaged_anvil:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: DAMAGED_ANVIL
+dandelion:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DANDELION
+dark_oak_button:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: DARK_OAK_BUTTON
+dark_oak_door:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: DARK_OAK_DOOR
+dark_oak_fence:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: DARK_OAK_FENCE
+dark_oak_fence_gate:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: DARK_OAK_FENCE_GATE
+dark_oak_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: DARK_OAK_HANGING_SIGN
+dark_oak_leaves:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: DARK_OAK_LEAVES
+dark_oak_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: DARK_OAK_LOG
+dark_oak_planks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: DARK_OAK_PLANKS
+dark_oak_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: DARK_OAK_PRESSURE_PLATE
+dark_oak_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DARK_OAK_SAPLING
+dark_oak_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: DARK_OAK_SIGN
+dark_oak_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: DARK_OAK_SLAB
+dark_oak_trapdoor:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: DARK_OAK_TRAPDOOR
+dark_oak_wall_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: DARK_OAK_WALL_HANGING_SIGN
+dark_oak_wall_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: DARK_OAK_WALL_SIGN
+dark_oak_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: DARK_OAK_WOOD
+dark_prismarine:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: DARK_PRISMARINE
+dark_prismarine_slab:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: DARK_PRISMARINE_SLAB
+daylight_detector:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: DAYLIGHT_DETECTOR
+dead_brain_coral:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_BRAIN_CORAL
+dead_brain_coral_block:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: DEAD_BRAIN_CORAL_BLOCK
+dead_brain_coral_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_BRAIN_CORAL_FAN
+dead_brain_coral_wall_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_BRAIN_CORAL_WALL_FAN
+dead_bubble_coral:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_BUBBLE_CORAL
+dead_bubble_coral_block:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: DEAD_BUBBLE_CORAL_BLOCK
+dead_bubble_coral_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_BUBBLE_CORAL_FAN
+dead_bubble_coral_wall_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_BUBBLE_CORAL_WALL_FAN
+dead_bush:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_BUSH
+dead_fire_coral:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_FIRE_CORAL
+dead_fire_coral_block:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: DEAD_FIRE_CORAL_BLOCK
+dead_fire_coral_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_FIRE_CORAL_FAN
+dead_fire_coral_wall_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_FIRE_CORAL_WALL_FAN
+dead_horn_coral:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_HORN_CORAL
+dead_horn_coral_block:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: DEAD_HORN_CORAL_BLOCK
+dead_horn_coral_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_HORN_CORAL_FAN
+dead_horn_coral_wall_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_HORN_CORAL_WALL_FAN
+dead_tube_coral:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_TUBE_CORAL
+dead_tube_coral_block:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: DEAD_TUBE_CORAL_BLOCK
+dead_tube_coral_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_TUBE_CORAL_FAN
+dead_tube_coral_wall_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DEAD_TUBE_CORAL_WALL_FAN
+decorated_pot:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: DECORATED_POT
+deepslate:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: DEEPSLATE
+deepslate_coal_ore:
+  hardness: 4.5
+  tool: AXE
+  type: exact
+  value: DEEPSLATE_COAL_ORE
+deepslate_copper_ore:
+  hardness: 4.5
+  tool: AXE
+  type: exact
+  value: DEEPSLATE_COPPER_ORE
+deepslate_diamond_ore:
+  hardness: 4.5
+  tool: AXE
+  type: exact
+  value: DEEPSLATE_DIAMOND_ORE
+deepslate_emerald_ore:
+  hardness: 4.5
+  tool: AXE
+  type: exact
+  value: DEEPSLATE_EMERALD_ORE
+deepslate_gold_ore:
+  hardness: 4.5
+  tool: AXE
+  type: exact
+  value: DEEPSLATE_GOLD_ORE
+deepslate_iron_ore:
+  hardness: 4.5
+  tool: AXE
+  type: exact
+  value: DEEPSLATE_IRON_ORE
+deepslate_lapis_ore:
+  hardness: 4.5
+  tool: AXE
+  type: exact
+  value: DEEPSLATE_LAPIS_ORE
+deepslate_redstone_ore:
+  hardness: 4.5
+  tool: AXE
+  type: exact
+  value: DEEPSLATE_REDSTONE_ORE
+detector_rail:
+  hardness: 0.7
+  tool: AXE
+  type: exact
+  value: DETECTOR_RAIL
+diamond_block:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: DIAMOND_BLOCK
+diamond_ore:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: DIAMOND_ORE
+diorite:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: DIORITE
+dirt:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: DIRT
+dirt_path:
+  hardness: 0.65
+  tool: AXE
+  type: exact
+  value: DIRT_PATH
+dispenser:
+  hardness: 3.5
+  tool: AXE
+  type: exact
+  value: DISPENSER
+dragon_egg:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: DRAGON_EGG
+dragon_head:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: DRAGON_HEAD
+dragon_wall_head:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: DRAGON_WALL_HEAD
+dried_kelp_block:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: DRIED_KELP_BLOCK
+dripstone_block:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: DRIPSTONE_BLOCK
+dropper:
+  hardness: 3.5
+  tool: AXE
+  type: exact
+  value: DROPPER
+emerald_block:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: EMERALD_BLOCK
+emerald_ore:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: EMERALD_ORE
+enchanting_table:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: ENCHANTING_TABLE
+end_gateway:
+  hardness: -1.0
+  tool: AXE
+  type: exact
+  value: END_GATEWAY
+end_portal:
+  hardness: -1.0
+  tool: AXE
+  type: exact
+  value: END_PORTAL
+end_portal_frame:
+  hardness: -1.0
+  tool: AXE
+  type: exact
+  value: END_PORTAL_FRAME
+end_rod:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: END_ROD
+end_stone:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: END_STONE
+end_stone_bricks:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: END_STONE_BRICKS
+ender_chest:
+  hardness: 22.5
+  tool: AXE
+  type: exact
+  value: ENDER_CHEST
+exposed_copper:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: EXPOSED_COPPER
+farmland:
+  hardness: 0.6
+  tool: AXE
+  type: exact
+  value: FARMLAND
+fern:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: FERN
+fire:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: FIRE
+fire_coral:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: FIRE_CORAL
+fire_coral_block:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: FIRE_CORAL_BLOCK
+fire_coral_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: FIRE_CORAL_FAN
+fire_coral_wall_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: FIRE_CORAL_WALL_FAN
+fletching_table:
+  hardness: 2.5
+  tool: AXE
+  type: exact
+  value: FLETCHING_TABLE
+flower_pot:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: FLOWER_POT
+flowering_azalea:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: FLOWERING_AZALEA
+flowering_azalea_leaves:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: FLOWERING_AZALEA_LEAVES
+frogspawn:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: FROGSPAWN
+frosted_ice:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: FROSTED_ICE
+furnace:
+  hardness: 3.5
+  tool: AXE
+  type: exact
+  value: FURNACE
+glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: GLASS
+glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: GLASS_PANE
+glow_lichen:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: GLOW_LICHEN
+glowstone:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: GLOWSTONE
+gold_block:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: GOLD_BLOCK
+gold_ore:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: GOLD_ORE
+granite:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: GRANITE
+grass:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: GRASS
+grass_block:
+  hardness: 0.6
+  tool: AXE
+  type: exact
+  value: GRASS_BLOCK
+gravel:
+  hardness: 0.6
+  tool: AXE
+  type: exact
+  value: GRAVEL
+gray_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: GRAY_BANNER
+gray_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: GRAY_BED
+gray_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: GRAY_CANDLE
+gray_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: GRAY_CARPET
+gray_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: GRAY_CONCRETE
+gray_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: GRAY_CONCRETE_POWDER
+gray_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: GRAY_GLAZED_TERRACOTTA
+gray_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: GRAY_SHULKER_BOX
+gray_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: GRAY_STAINED_GLASS
+gray_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: GRAY_STAINED_GLASS_PANE
+gray_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: GRAY_TERRACOTTA
+gray_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: GRAY_WALL_BANNER
+gray_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: GRAY_WOOL
+green_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: GREEN_BANNER
+green_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: GREEN_BED
+green_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: GREEN_CANDLE
+green_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: GREEN_CARPET
+green_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: GREEN_CONCRETE
+green_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: GREEN_CONCRETE_POWDER
+green_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: GREEN_GLAZED_TERRACOTTA
+green_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: GREEN_SHULKER_BOX
+green_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: GREEN_STAINED_GLASS
+green_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: GREEN_STAINED_GLASS_PANE
+green_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: GREEN_TERRACOTTA
+green_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: GREEN_WALL_BANNER
+green_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: GREEN_WOOL
+grindstone:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: GRINDSTONE
+hanging_roots:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: HANGING_ROOTS
+hay_block:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: HAY_BLOCK
+heavy_weighted_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: HEAVY_WEIGHTED_PRESSURE_PLATE
+honeycomb_block:
+  hardness: 0.6
+  tool: AXE
+  type: exact
+  value: HONEYCOMB_BLOCK
+hopper:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: HOPPER
+horn_coral:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: HORN_CORAL
+horn_coral_block:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: HORN_CORAL_BLOCK
+horn_coral_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: HORN_CORAL_FAN
+horn_coral_wall_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: HORN_CORAL_WALL_FAN
+ice:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: ICE
+iron_bars:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: IRON_BARS
+iron_block:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: IRON_BLOCK
+iron_door:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: IRON_DOOR
+iron_ore:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: IRON_ORE
+iron_trapdoor:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: IRON_TRAPDOOR
+jack_o_lantern:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: JACK_O_LANTERN
+jigsaw:
+  hardness: -1.0
+  tool: AXE
+  type: exact
+  value: JIGSAW
+jukebox:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: JUKEBOX
+jungle_button:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: JUNGLE_BUTTON
+jungle_door:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: JUNGLE_DOOR
+jungle_fence:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: JUNGLE_FENCE
+jungle_fence_gate:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: JUNGLE_FENCE_GATE
+jungle_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: JUNGLE_HANGING_SIGN
+jungle_leaves:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: JUNGLE_LEAVES
+jungle_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: JUNGLE_LOG
+jungle_planks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: JUNGLE_PLANKS
+jungle_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: JUNGLE_PRESSURE_PLATE
+jungle_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: JUNGLE_SAPLING
+jungle_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: JUNGLE_SIGN
+jungle_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: JUNGLE_SLAB
+jungle_trapdoor:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: JUNGLE_TRAPDOOR
+jungle_wall_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: JUNGLE_WALL_HANGING_SIGN
+jungle_wall_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: JUNGLE_WALL_SIGN
+jungle_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: JUNGLE_WOOD
+kelp:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: KELP
+kelp_plant:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: KELP_PLANT
+ladder:
+  hardness: 0.4
+  tool: AXE
+  type: exact
+  value: LADDER
+lantern:
+  hardness: 3.5
+  tool: AXE
+  type: exact
+  value: LANTERN
+lapis_block:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: LAPIS_BLOCK
+lapis_ore:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: LAPIS_ORE
+large_fern:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: LARGE_FERN
+lava:
+  hardness: 100.0
+  tool: AXE
+  type: exact
+  value: LAVA
+lectern:
+  hardness: 2.5
+  tool: AXE
+  type: exact
+  value: LECTERN
+lever:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: LEVER
+light:
+  hardness: -1.0
+  tool: AXE
+  type: exact
+  value: LIGHT
+light_blue_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: LIGHT_BLUE_BANNER
+light_blue_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: LIGHT_BLUE_BED
+light_blue_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: LIGHT_BLUE_CANDLE
+light_blue_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: LIGHT_BLUE_CARPET
+light_blue_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: LIGHT_BLUE_CONCRETE
+light_blue_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: LIGHT_BLUE_CONCRETE_POWDER
+light_blue_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: LIGHT_BLUE_GLAZED_TERRACOTTA
+light_blue_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: LIGHT_BLUE_SHULKER_BOX
+light_blue_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: LIGHT_BLUE_STAINED_GLASS
+light_blue_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: LIGHT_BLUE_STAINED_GLASS_PANE
+light_blue_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: LIGHT_BLUE_TERRACOTTA
+light_blue_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: LIGHT_BLUE_WALL_BANNER
+light_blue_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: LIGHT_BLUE_WOOL
+light_gray_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: LIGHT_GRAY_BANNER
+light_gray_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: LIGHT_GRAY_BED
+light_gray_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: LIGHT_GRAY_CANDLE
+light_gray_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: LIGHT_GRAY_CARPET
+light_gray_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: LIGHT_GRAY_CONCRETE
+light_gray_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: LIGHT_GRAY_CONCRETE_POWDER
+light_gray_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: LIGHT_GRAY_GLAZED_TERRACOTTA
+light_gray_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: LIGHT_GRAY_SHULKER_BOX
+light_gray_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: LIGHT_GRAY_STAINED_GLASS
+light_gray_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: LIGHT_GRAY_STAINED_GLASS_PANE
+light_gray_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: LIGHT_GRAY_TERRACOTTA
+light_gray_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: LIGHT_GRAY_WALL_BANNER
+light_gray_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: LIGHT_GRAY_WOOL
+light_weighted_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: LIGHT_WEIGHTED_PRESSURE_PLATE
+lightning_rod:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: LIGHTNING_ROD
+lilac:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: LILAC
+lily_of_the_valley:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: LILY_OF_THE_VALLEY
+lily_pad:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: LILY_PAD
+lime_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: LIME_BANNER
+lime_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: LIME_BED
+lime_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: LIME_CANDLE
+lime_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: LIME_CARPET
+lime_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: LIME_CONCRETE
+lime_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: LIME_CONCRETE_POWDER
+lime_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: LIME_GLAZED_TERRACOTTA
+lime_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: LIME_SHULKER_BOX
+lime_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: LIME_STAINED_GLASS
+lime_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: LIME_STAINED_GLASS_PANE
+lime_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: LIME_TERRACOTTA
+lime_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: LIME_WALL_BANNER
+lime_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: LIME_WOOL
+lodestone:
+  hardness: 3.5
+  tool: AXE
+  type: exact
+  value: LODESTONE
+loom:
+  hardness: 2.5
+  tool: AXE
+  type: exact
+  value: LOOM
+magenta_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: MAGENTA_BANNER
+magenta_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: MAGENTA_BED
+magenta_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: MAGENTA_CANDLE
+magenta_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: MAGENTA_CARPET
+magenta_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: MAGENTA_CONCRETE
+magenta_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: MAGENTA_CONCRETE_POWDER
+magenta_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: MAGENTA_GLAZED_TERRACOTTA
+magenta_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: MAGENTA_SHULKER_BOX
+magenta_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: MAGENTA_STAINED_GLASS
+magenta_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: MAGENTA_STAINED_GLASS_PANE
+magenta_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: MAGENTA_TERRACOTTA
+magenta_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: MAGENTA_WALL_BANNER
+magenta_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: MAGENTA_WOOL
+magma_block:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: MAGMA_BLOCK
+mangrove_button:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: MANGROVE_BUTTON
+mangrove_door:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: MANGROVE_DOOR
+mangrove_fence:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: MANGROVE_FENCE
+mangrove_fence_gate:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: MANGROVE_FENCE_GATE
+mangrove_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: MANGROVE_HANGING_SIGN
+mangrove_leaves:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: MANGROVE_LEAVES
+mangrove_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: MANGROVE_LOG
+mangrove_planks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: MANGROVE_PLANKS
+mangrove_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: MANGROVE_PRESSURE_PLATE
+mangrove_propagule:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: MANGROVE_PROPAGULE
+mangrove_roots:
+  hardness: 0.7
+  tool: AXE
+  type: exact
+  value: MANGROVE_ROOTS
+mangrove_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: MANGROVE_SIGN
+mangrove_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: MANGROVE_SLAB
+mangrove_trapdoor:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: MANGROVE_TRAPDOOR
+mangrove_wall_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: MANGROVE_WALL_HANGING_SIGN
+mangrove_wall_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: MANGROVE_WALL_SIGN
+mangrove_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: MANGROVE_WOOD
+melon:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: MELON
+melon_stem:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: MELON_STEM
+moss_block:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: MOSS_BLOCK
+moss_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: MOSS_CARPET
+mossy_cobblestone:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: MOSSY_COBBLESTONE
+mossy_stone_bricks:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: MOSSY_STONE_BRICKS
+moving_piston:
+  hardness: -1.0
+  tool: AXE
+  type: exact
+  value: MOVING_PISTON
+mud_brick_slab:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: MUD_BRICK_SLAB
+mud_bricks:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: MUD_BRICKS
+muddy_mangrove_roots:
+  hardness: 0.7
+  tool: AXE
+  type: exact
+  value: MUDDY_MANGROVE_ROOTS
+mushroom_stem:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: MUSHROOM_STEM
+mycelium:
+  hardness: 0.6
+  tool: AXE
+  type: exact
+  value: MYCELIUM
+nether_brick_fence:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: NETHER_BRICK_FENCE
+nether_brick_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: NETHER_BRICK_SLAB
+nether_bricks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: NETHER_BRICKS
+nether_gold_ore:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: NETHER_GOLD_ORE
+nether_portal:
+  hardness: -1.0
+  tool: AXE
+  type: exact
+  value: NETHER_PORTAL
+nether_quartz_ore:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: NETHER_QUARTZ_ORE
+nether_sprouts:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: NETHER_SPROUTS
+nether_wart_block:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: NETHER_WART_BLOCK
+netherite_block:
+  hardness: 50.0
+  tool: AXE
+  type: exact
+  value: NETHERITE_BLOCK
+netherrack:
+  hardness: 0.4
+  tool: AXE
+  type: exact
+  value: NETHERRACK
+note_block:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: NOTE_BLOCK
+oak_button:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: OAK_BUTTON
+oak_door:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: OAK_DOOR
+oak_fence:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: OAK_FENCE
+oak_fence_gate:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: OAK_FENCE_GATE
+oak_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: OAK_HANGING_SIGN
+oak_leaves:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: OAK_LEAVES
+oak_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: OAK_LOG
+oak_planks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: OAK_PLANKS
+oak_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: OAK_PRESSURE_PLATE
+oak_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: OAK_SAPLING
+oak_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: OAK_SIGN
+oak_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: OAK_SLAB
+oak_trapdoor:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: OAK_TRAPDOOR
+oak_wall_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: OAK_WALL_HANGING_SIGN
+oak_wall_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: OAK_WALL_SIGN
+oak_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: OAK_WOOD
+observer:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: OBSERVER
+obsidian:
+  hardness: 50.0
+  tool: AXE
+  type: exact
+  value: OBSIDIAN
+ochre_froglight:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: OCHRE_FROGLIGHT
+orange_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: ORANGE_BANNER
+orange_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: ORANGE_BED
+orange_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: ORANGE_CANDLE
+orange_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: ORANGE_CARPET
+orange_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: ORANGE_CONCRETE
+orange_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: ORANGE_CONCRETE_POWDER
+orange_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: ORANGE_GLAZED_TERRACOTTA
+orange_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: ORANGE_SHULKER_BOX
+orange_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: ORANGE_STAINED_GLASS
+orange_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: ORANGE_STAINED_GLASS_PANE
+orange_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: ORANGE_TERRACOTTA
+orange_tulip:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: ORANGE_TULIP
+orange_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: ORANGE_WALL_BANNER
+orange_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: ORANGE_WOOL
+oxeye_daisy:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: OXEYE_DAISY
+oxidized_copper:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: OXIDIZED_COPPER
+packed_ice:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: PACKED_ICE
+packed_mud:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: PACKED_MUD
+pearlescent_froglight:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: PEARLESCENT_FROGLIGHT
+peony:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: PEONY
+petrified_oak_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: PETRIFIED_OAK_SLAB
+piglin_head:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: PIGLIN_HEAD
+piglin_wall_head:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: PIGLIN_WALL_HEAD
+pink_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: PINK_BANNER
+pink_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: PINK_BED
+pink_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: PINK_CANDLE
+pink_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: PINK_CARPET
+pink_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: PINK_CONCRETE
+pink_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: PINK_CONCRETE_POWDER
+pink_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: PINK_GLAZED_TERRACOTTA
+pink_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: PINK_SHULKER_BOX
+pink_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: PINK_STAINED_GLASS
+pink_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: PINK_STAINED_GLASS_PANE
+pink_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: PINK_TERRACOTTA
+pink_tulip:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: PINK_TULIP
+pink_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: PINK_WALL_BANNER
+pink_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: PINK_WOOL
+piston:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: PISTON
+piston_head:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: PISTON_HEAD
+pitcher_crop:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: PITCHER_CROP
+pitcher_plant:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: PITCHER_PLANT
+player_head:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: PLAYER_HEAD
+player_wall_head:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: PLAYER_WALL_HEAD
+podzol:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: PODZOL
+pointed_dripstone:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: POINTED_DRIPSTONE
+polished_andesite:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: POLISHED_ANDESITE
+polished_basalt:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: POLISHED_BASALT
+polished_blackstone:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: POLISHED_BLACKSTONE
+polished_blackstone_brick_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: POLISHED_BLACKSTONE_BRICK_SLAB
+polished_blackstone_bricks:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: POLISHED_BLACKSTONE_BRICKS
+polished_blackstone_button:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: POLISHED_BLACKSTONE_BUTTON
+polished_blackstone_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: POLISHED_BLACKSTONE_PRESSURE_PLATE
+polished_diorite:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: POLISHED_DIORITE
+polished_granite:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: POLISHED_GRANITE
+poppy:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POPPY
+potatoes:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTATOES
+potted_acacia_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_ACACIA_SAPLING
+potted_allium:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_ALLIUM
+potted_azalea_bush:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_AZALEA_BUSH
+potted_azure_bluet:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_AZURE_BLUET
+potted_bamboo:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_BAMBOO
+potted_birch_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_BIRCH_SAPLING
+potted_blue_orchid:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_BLUE_ORCHID
+potted_brown_mushroom:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_BROWN_MUSHROOM
+potted_cactus:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_CACTUS
+potted_cherry_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_CHERRY_SAPLING
+potted_cornflower:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_CORNFLOWER
+potted_crimson_fungus:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_CRIMSON_FUNGUS
+potted_crimson_roots:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_CRIMSON_ROOTS
+potted_dandelion:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_DANDELION
+potted_dark_oak_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_DARK_OAK_SAPLING
+potted_dead_bush:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_DEAD_BUSH
+potted_fern:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_FERN
+potted_flowering_azalea_bush:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_FLOWERING_AZALEA_BUSH
+potted_jungle_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_JUNGLE_SAPLING
+potted_lily_of_the_valley:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_LILY_OF_THE_VALLEY
+potted_mangrove_propagule:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_MANGROVE_PROPAGULE
+potted_oak_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_OAK_SAPLING
+potted_orange_tulip:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_ORANGE_TULIP
+potted_oxeye_daisy:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_OXEYE_DAISY
+potted_pink_tulip:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_PINK_TULIP
+potted_poppy:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_POPPY
+potted_red_mushroom:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_RED_MUSHROOM
+potted_red_tulip:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_RED_TULIP
+potted_spruce_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_SPRUCE_SAPLING
+potted_torchflower:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_TORCHFLOWER
+potted_warped_fungus:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_WARPED_FUNGUS
+potted_warped_roots:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_WARPED_ROOTS
+potted_white_tulip:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_WHITE_TULIP
+potted_wither_rose:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: POTTED_WITHER_ROSE
+powder_snow:
+  hardness: 0.25
+  tool: AXE
+  type: exact
+  value: POWDER_SNOW
+powered_rail:
+  hardness: 0.7
+  tool: AXE
+  type: exact
+  value: POWERED_RAIL
+prismarine:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: PRISMARINE
+prismarine_brick_slab:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: PRISMARINE_BRICK_SLAB
+prismarine_bricks:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: PRISMARINE_BRICKS
+prismarine_slab:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: PRISMARINE_SLAB
+pumpkin:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: PUMPKIN
+pumpkin_stem:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: PUMPKIN_STEM
+purple_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: PURPLE_BANNER
+purple_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: PURPLE_BED
+purple_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: PURPLE_CANDLE
+purple_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: PURPLE_CARPET
+purple_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: PURPLE_CONCRETE
+purple_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: PURPLE_CONCRETE_POWDER
+purple_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: PURPLE_GLAZED_TERRACOTTA
+purple_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: PURPLE_SHULKER_BOX
+purple_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: PURPLE_STAINED_GLASS
+purple_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: PURPLE_STAINED_GLASS_PANE
+purple_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: PURPLE_TERRACOTTA
+purple_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: PURPLE_WALL_BANNER
+purple_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: PURPLE_WOOL
+purpur_block:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: PURPUR_BLOCK
+purpur_pillar:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: PURPUR_PILLAR
+purpur_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: PURPUR_SLAB
+quartz_block:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: QUARTZ_BLOCK
+quartz_pillar:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: QUARTZ_PILLAR
+quartz_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: QUARTZ_SLAB
+rail:
+  hardness: 0.7
+  tool: AXE
+  type: exact
+  value: RAIL
+raw_copper_block:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: RAW_COPPER_BLOCK
+raw_gold_block:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: RAW_GOLD_BLOCK
+raw_iron_block:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: RAW_IRON_BLOCK
+red_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: RED_BANNER
+red_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: RED_BED
+red_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: RED_CANDLE
+red_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: RED_CARPET
+red_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: RED_CONCRETE
+red_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: RED_CONCRETE_POWDER
+red_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: RED_GLAZED_TERRACOTTA
+red_mushroom:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: RED_MUSHROOM
+red_mushroom_block:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: RED_MUSHROOM_BLOCK
+red_nether_bricks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: RED_NETHER_BRICKS
+red_sand:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: RED_SAND
+red_sandstone:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: RED_SANDSTONE
+red_sandstone_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: RED_SANDSTONE_SLAB
+red_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: RED_SHULKER_BOX
+red_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: RED_STAINED_GLASS
+red_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: RED_STAINED_GLASS_PANE
+red_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: RED_TERRACOTTA
+red_tulip:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: RED_TULIP
+red_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: RED_WALL_BANNER
+red_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: RED_WOOL
+redstone_block:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: REDSTONE_BLOCK
+redstone_lamp:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: REDSTONE_LAMP
+redstone_ore:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: REDSTONE_ORE
+redstone_torch:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: REDSTONE_TORCH
+redstone_wall_torch:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: REDSTONE_WALL_TORCH
+redstone_wire:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: REDSTONE_WIRE
+reinforced_deepslate:
+  hardness: 55.0
+  tool: AXE
+  type: exact
+  value: REINFORCED_DEEPSLATE
+repeater:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: REPEATER
+repeating_command_block:
+  hardness: -1.0
+  tool: AXE
+  type: exact
+  value: REPEATING_COMMAND_BLOCK
+respawn_anchor:
+  hardness: 50.0
+  tool: AXE
+  type: exact
+  value: RESPAWN_ANCHOR
+rooted_dirt:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: ROOTED_DIRT
+rose_bush:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: ROSE_BUSH
+sand:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: SAND
+sandstone:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: SANDSTONE
+sandstone_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SANDSTONE_SLAB
+sculk:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: SCULK
+sculk_catalyst:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: SCULK_CATALYST
+sculk_sensor:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: SCULK_SENSOR
+sculk_shrieker:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: SCULK_SHRIEKER
+sculk_vein:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: SCULK_VEIN
+sea_lantern:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: SEA_LANTERN
+seagrass:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: SEAGRASS
+shroomlight:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: SHROOMLIGHT
+shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SHULKER_BOX
+skeleton_skull:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: SKELETON_SKULL
+skeleton_wall_skull:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: SKELETON_WALL_SKULL
+small_dripleaf:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: SMALL_DRIPLEAF
+smithing_table:
+  hardness: 2.5
+  tool: AXE
+  type: exact
+  value: SMITHING_TABLE
+smoker:
+  hardness: 3.5
+  tool: AXE
+  type: exact
+  value: SMOKER
+smooth_quartz:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SMOOTH_QUARTZ
+smooth_red_sandstone:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SMOOTH_RED_SANDSTONE
+smooth_sandstone:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SMOOTH_SANDSTONE
+smooth_stone:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SMOOTH_STONE
+smooth_stone_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SMOOTH_STONE_SLAB
+sniffer_egg:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: SNIFFER_EGG
+snow:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: SNOW
+snow_block:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: SNOW_BLOCK
+soul_campfire:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SOUL_CAMPFIRE
+soul_fire:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: SOUL_FIRE
+soul_lantern:
+  hardness: 3.5
+  tool: AXE
+  type: exact
+  value: SOUL_LANTERN
+soul_sand:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: SOUL_SAND
+soul_soil:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: SOUL_SOIL
+soul_torch:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: SOUL_TORCH
+soul_wall_torch:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: SOUL_WALL_TORCH
+spawner:
+  hardness: 5.0
+  tool: AXE
+  type: exact
+  value: SPAWNER
+sponge:
+  hardness: 0.6
+  tool: AXE
+  type: exact
+  value: SPONGE
+spore_blossom:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: SPORE_BLOSSOM
+spruce_button:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: SPRUCE_BUTTON
+spruce_door:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: SPRUCE_DOOR
+spruce_fence:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SPRUCE_FENCE
+spruce_fence_gate:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SPRUCE_FENCE_GATE
+spruce_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: SPRUCE_HANGING_SIGN
+spruce_leaves:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: SPRUCE_LEAVES
+spruce_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SPRUCE_LOG
+spruce_planks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SPRUCE_PLANKS
+spruce_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: SPRUCE_PRESSURE_PLATE
+spruce_sapling:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: SPRUCE_SAPLING
+spruce_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: SPRUCE_SIGN
+spruce_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SPRUCE_SLAB
+spruce_trapdoor:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: SPRUCE_TRAPDOOR
+spruce_wall_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: SPRUCE_WALL_HANGING_SIGN
+spruce_wall_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: SPRUCE_WALL_SIGN
+spruce_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: SPRUCE_WOOD
+sticky_piston:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: STICKY_PISTON
+stone:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: STONE
+stone_brick_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STONE_BRICK_SLAB
+stone_bricks:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: STONE_BRICKS
+stone_button:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: STONE_BUTTON
+stone_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: STONE_PRESSURE_PLATE
+stone_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STONE_SLAB
+stonecutter:
+  hardness: 3.5
+  tool: AXE
+  type: exact
+  value: STONECUTTER
+stripped_acacia_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_ACACIA_LOG
+stripped_acacia_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_ACACIA_WOOD
+stripped_bamboo_block:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_BAMBOO_BLOCK
+stripped_birch_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_BIRCH_LOG
+stripped_birch_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_BIRCH_WOOD
+stripped_cherry_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_CHERRY_LOG
+stripped_cherry_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_CHERRY_WOOD
+stripped_crimson_hyphae:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_CRIMSON_HYPHAE
+stripped_crimson_stem:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_CRIMSON_STEM
+stripped_dark_oak_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_DARK_OAK_LOG
+stripped_dark_oak_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_DARK_OAK_WOOD
+stripped_jungle_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_JUNGLE_LOG
+stripped_jungle_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_JUNGLE_WOOD
+stripped_mangrove_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_MANGROVE_LOG
+stripped_mangrove_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_MANGROVE_WOOD
+stripped_oak_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_OAK_LOG
+stripped_oak_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_OAK_WOOD
+stripped_spruce_log:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_SPRUCE_LOG
+stripped_spruce_wood:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_SPRUCE_WOOD
+stripped_warped_hyphae:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_WARPED_HYPHAE
+stripped_warped_stem:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: STRIPPED_WARPED_STEM
+structure_block:
+  hardness: -1.0
+  tool: AXE
+  type: exact
+  value: STRUCTURE_BLOCK
+sugar_cane:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: SUGAR_CANE
+sunflower:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: SUNFLOWER
+suspicious_gravel:
+  hardness: 0.25
+  tool: AXE
+  type: exact
+  value: SUSPICIOUS_GRAVEL
+suspicious_sand:
+  hardness: 0.25
+  tool: AXE
+  type: exact
+  value: SUSPICIOUS_SAND
+tall_grass:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: TALL_GRASS
+tall_seagrass:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: TALL_SEAGRASS
+target:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: TARGET
+terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: TERRACOTTA
+tnt:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: TNT
+torch:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: TORCH
+torchflower:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: TORCHFLOWER
+torchflower_crop:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: TORCHFLOWER_CROP
+trapped_chest:
+  hardness: 2.5
+  tool: AXE
+  type: exact
+  value: TRAPPED_CHEST
+tube_coral:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: TUBE_CORAL
+tube_coral_block:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: TUBE_CORAL_BLOCK
+tube_coral_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: TUBE_CORAL_FAN
+tube_coral_wall_fan:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: TUBE_CORAL_WALL_FAN
+tuff:
+  hardness: 1.5
+  tool: AXE
+  type: exact
+  value: TUFF
+turtle_egg:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: TURTLE_EGG
+twisting_vines:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: TWISTING_VINES
+twisting_vines_plant:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: TWISTING_VINES_PLANT
+verdant_froglight:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: VERDANT_FROGLIGHT
+vine:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: VINE
+wall_torch:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: WALL_TORCH
+warped_button:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: WARPED_BUTTON
+warped_door:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: WARPED_DOOR
+warped_fence:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: WARPED_FENCE
+warped_fence_gate:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: WARPED_FENCE_GATE
+warped_fungus:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: WARPED_FUNGUS
+warped_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: WARPED_HANGING_SIGN
+warped_hyphae:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: WARPED_HYPHAE
+warped_nylium:
+  hardness: 0.4
+  tool: AXE
+  type: exact
+  value: WARPED_NYLIUM
+warped_planks:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: WARPED_PLANKS
+warped_pressure_plate:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: WARPED_PRESSURE_PLATE
+warped_roots:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: WARPED_ROOTS
+warped_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: WARPED_SIGN
+warped_slab:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: WARPED_SLAB
+warped_stem:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: WARPED_STEM
+warped_trapdoor:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: WARPED_TRAPDOOR
+warped_wall_hanging_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: WARPED_WALL_HANGING_SIGN
+warped_wall_sign:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: WARPED_WALL_SIGN
+warped_wart_block:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: WARPED_WART_BLOCK
+water:
+  hardness: 100.0
+  tool: AXE
+  type: exact
+  value: WATER
+weathered_copper:
+  hardness: 3.0
+  tool: AXE
+  type: exact
+  value: WEATHERED_COPPER
+weeping_vines:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: WEEPING_VINES
+weeping_vines_plant:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: WEEPING_VINES_PLANT
+wet_sponge:
+  hardness: 0.6
+  tool: AXE
+  type: exact
+  value: WET_SPONGE
+wheat:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: WHEAT
+white_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: WHITE_BANNER
+white_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: WHITE_BED
+white_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: WHITE_CANDLE
+white_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: WHITE_CARPET
+white_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: WHITE_CONCRETE
+white_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: WHITE_CONCRETE_POWDER
+white_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: WHITE_GLAZED_TERRACOTTA
+white_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: WHITE_SHULKER_BOX
+white_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: WHITE_STAINED_GLASS
+white_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: WHITE_STAINED_GLASS_PANE
+white_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: WHITE_TERRACOTTA
+white_tulip:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: WHITE_TULIP
+white_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: WHITE_WALL_BANNER
+white_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: WHITE_WOOL
+wither_rose:
+  hardness: 0.0
+  tool: AXE
+  type: exact
+  value: WITHER_ROSE
+wither_skeleton_skull:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: WITHER_SKELETON_SKULL
+wither_skeleton_wall_skull:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: WITHER_SKELETON_WALL_SKULL
+yellow_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: YELLOW_BANNER
+yellow_bed:
+  hardness: 0.2
+  tool: AXE
+  type: exact
+  value: YELLOW_BED
+yellow_candle:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: YELLOW_CANDLE
+yellow_carpet:
+  hardness: 0.1
+  tool: AXE
+  type: exact
+  value: YELLOW_CARPET
+yellow_concrete:
+  hardness: 1.8
+  tool: AXE
+  type: exact
+  value: YELLOW_CONCRETE
+yellow_concrete_powder:
+  hardness: 0.5
+  tool: AXE
+  type: exact
+  value: YELLOW_CONCRETE_POWDER
+yellow_glazed_terracotta:
+  hardness: 1.4
+  tool: AXE
+  type: exact
+  value: YELLOW_GLAZED_TERRACOTTA
+yellow_shulker_box:
+  hardness: 2.0
+  tool: AXE
+  type: exact
+  value: YELLOW_SHULKER_BOX
+yellow_stained_glass:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: YELLOW_STAINED_GLASS
+yellow_stained_glass_pane:
+  hardness: 0.3
+  tool: AXE
+  type: exact
+  value: YELLOW_STAINED_GLASS_PANE
+yellow_terracotta:
+  hardness: 1.25
+  tool: AXE
+  type: exact
+  value: YELLOW_TERRACOTTA
+yellow_wall_banner:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: YELLOW_WALL_BANNER
+yellow_wool:
+  hardness: 0.8
+  tool: AXE
+  type: exact
+  value: YELLOW_WOOL
+zombie_head:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: ZOMBIE_HEAD
+zombie_wall_head:
+  hardness: 1.0
+  tool: AXE
+  type: exact
+  value: ZOMBIE_WALL_HEAD
