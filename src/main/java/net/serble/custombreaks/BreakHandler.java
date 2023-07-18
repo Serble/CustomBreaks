@@ -5,6 +5,7 @@ import net.serble.custombreaks.Imps.VanillaBreakTimeCalculator;
 import net.serble.custombreaks.Schemas.IBreakTimeCalculator;
 import net.serble.custombreaks.Schemas.IRegion;
 import org.bukkit.Bukkit;
+import org.bukkit.Material;
 import org.bukkit.attribute.Attribute;
 import org.bukkit.attribute.AttributeInstance;
 import org.bukkit.block.Block;
@@ -170,7 +171,11 @@ public class BreakHandler implements Listener {
         if (event.isCancelled()) {
             return;
         }
-        block.breakNaturally(Utils.getPlayerActiveTool(p));
+        if (event.isDropItems()) {
+            block.breakNaturally(Utils.getPlayerActiveTool(p));
+        } else {
+            block.setType(Material.AIR);
+        }
         p.getWorld().playSound(p.getLocation(), block.getType().createBlockData().getSoundGroup().getBreakSound(), 1, 1);
     }
 

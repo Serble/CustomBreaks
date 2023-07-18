@@ -84,6 +84,7 @@ public class BreakHandlerPacketManager extends PacketAdapter {
         if (damage >= maxDamage) {
             // INSTA-BREAK
             player.sendBlockChange(blockLoc, block.getBlockData());
+            player.sendMessage("INSTA BREAK RESET BLOCK");
         }
     }
 
