@@ -68,13 +68,6 @@ public class BreakHandlerPacketManager extends PacketAdapter {
         }
         event.setCancelled(true);  // Don't let the server handle this
 
-        // Run event sync and wait for it to finish
-        if (playerStartBreaking(player, block)) {
-            return;
-        }
-
-        breakHandler.setPlayerMining(player, block);
-
         // Insta break check
         // If the client thinks it can insta break then it won't send a stop mining packet
         // We need to tell it to go fuck itself
@@ -84,8 +77,14 @@ public class BreakHandlerPacketManager extends PacketAdapter {
         if (damage >= maxDamage) {
             // INSTA-BREAK
             player.sendBlockChange(blockLoc, block.getBlockData());
-            player.sendMessage("INSTA BREAK RESET BLOCK");
         }
+
+        // Run event sync and wait for it to finish
+        if (playerStartBreaking(player, block)) {
+            return;
+        }
+
+        breakHandler.setPlayerMining(player, block);
     }
 
     // Returns: whether the event was cancelled
