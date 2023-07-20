@@ -5,6 +5,7 @@ import com.comphenix.protocol.events.*;
 import net.serble.custombreaks.Imps.VanillaBreakTimeCalculator;
 import net.serble.custombreaks.Schemas.PlayerAttemptBreakBlockEvent;
 import org.bukkit.Bukkit;
+import org.bukkit.GameMode;
 import org.bukkit.Location;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
@@ -45,6 +46,10 @@ public class BreakHandlerPacketManager extends PacketAdapter {
     private void executeWrapper(PacketEvent event) {
         PacketContainer packet = event.getPacket();
         Player player = event.getPlayer();
+
+        if (player.getGameMode() == GameMode.CREATIVE) {
+            return;
+        }
 
         int action = packet.getPlayerDigTypes().read(0).ordinal();
 
