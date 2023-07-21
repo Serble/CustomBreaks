@@ -51,7 +51,7 @@ public class BreakHandler implements Listener {
 
     private void checkInitPlayer(Player p) {
         if (Config.isEnabled(p.getWorld())) {
-            p.addPotionEffect(new PotionEffect(PotionEffectType.SLOW_DIGGING, 99999, 255, false, false));
+            p.addPotionEffect(new PotionEffect(PotionEffectType.SLOW_DIGGING, 999999, 255, false, false));
             removeMineSpeed(p);
         }
     }
@@ -145,7 +145,7 @@ public class BreakHandler implements Listener {
 
             // add 1 to break time
             breakTime.put(player, breakTime.get(player) + breakDamage);
-            player.sendMessage("Break time: " + breakTime.get(player) + " (x" + breakDamage + ") / " + maxBreakTime);
+            //player.sendMessage("Break time: " + breakTime.get(player) + " (x" + breakDamage + ") / " + maxBreakTime);
 
             // Set the break progress animation
             float breakProgress = (float) (breakTime.get(player) / maxBreakTime);
